@@ -2,7 +2,7 @@ TP-Ankiety
 ==========
 
 *From server to app*
-```
+```json
 {
   "questionnaires" : [
     {
@@ -36,7 +36,8 @@ TP-Ankiety
 *From app to server*
 
 Wysyłam ankiety, na które użytkownik odpowiedział. W tym przypadku odpowiedział na ankietę z id = 0.
-```
+
+```json
 {
   "questionnaires" : [
     {
