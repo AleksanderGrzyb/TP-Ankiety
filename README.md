@@ -46,7 +46,7 @@ Wysyłam ankiety, na które użytkownik odpowiedział. W tym przypadku odpowiedz
         {
           "id" : 0,
           "type" : 0,
-          "body_text" : "Jesteś YOLO?"
+          "body_text" : "Jesteś YOLO?",
           "answer" : 1
         },
         {
