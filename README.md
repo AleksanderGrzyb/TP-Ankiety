@@ -7,6 +7,10 @@ TP-Ankiety
   "questionnaires" : [
     {
       "id" : 0,
+      "title" : "Transport Publiczny",
+      "timeToComplete" : "10",
+      "author" : "MPK",
+      "points" : "9",
       "questions" : [
         {
           "id" : 0,
@@ -22,6 +26,10 @@ TP-Ankiety
     }, 
     {
       "id" : 1,
+      "title" : "Sklepy Spożywcze",
+      "timeToComplete" : "20",
+      "author" : "Piotr i Paweł",
+      "points" : "20",
       "questions" : [
         {
           "id" : 0,
@@ -42,6 +50,10 @@ Wysyłam ankiety, na które użytkownik odpowiedział. W tym przypadku odpowiedz
   "questionnaires" : [
     {
       "id" : 0,
+      "title" : "Transport Publiczny",
+      "timeToComplete" : "10",
+      "author" : "MPK",
+      "points" : "9",
       "questions" : [
         {
           "id" : 0,
