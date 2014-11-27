@@ -54,6 +54,6 @@ Aplikacja webowa będzie napisana w języku Python wykorzystując framework Djan
 
 ## Harmonogram
 
-* 9 grudnia - Wersja podstawowa aplikacji. Aplikacja zostanie zaprezentowana na zajęciach tego samego dnia.
-* 6 stycznia - Wszystkie wymienione funkcjonalności z dokumentu oraz korespondacji mailem będą zaimplementowane. Aplikacja będzie zaprezentowana na zajęciach 13 stycznia.
+* **9 grudnia** - Wersja podstawowa aplikacji. Aplikacja zostanie zaprezentowana na zajęciach tego samego dnia.
+* **6 stycznia** - Wszystkie wymienione funkcjonalności z dokumentu oraz korespondacji mailem będą zaimplementowane. Aplikacja będzie zaprezentowana na zajęciach 13 stycznia.
 
