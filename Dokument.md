@@ -52,4 +52,8 @@ Aplikacja mobilna będzie napisana w języku Objective-C w środowisku programis
 
 Aplikacja webowa będzie napisana w języku Python wykorzystując framework Django. Wyniki ankiet będą przedstawione za pomocą bibliotek Pandas i Matplotlib.
 
+## Harmonogram
+
+* 9 grudnia - Wersja podstawowa aplikacji. Aplikacja zostanie zaprezentowana na zajęciach tego samego dnia.
+* 6 stycznia - Wszystkie wymienione funkcjonalności z dokumentu oraz korespondacji mailem będą zaimplementowane. Aplikacja będzie zaprezentowana na zajęciach 13 stycznia.
 
