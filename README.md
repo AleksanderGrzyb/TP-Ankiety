@@ -7,57 +7,28 @@ TP-Ankiety
     "errors": "None", 
     "questionnaires": [
         {
-            "author": "Jan Kowalski", 
-            "id": 5, 
-            "points": 25, 
-            "questions": [
-                {
-                    "answers": [
-                        "Tak", 
-                        "Nie"
-                    ], 
-                    "id": 12, 
-                    "question_text": "Question 1"
-                }, 
-                {
-                    "answers": [
-                        "Odp. A", 
-                        "Odp. B", 
-                        "Odp. C"
-                    ], 
-                    "id": 13, 
-                    "question_text": "Pytanie z 3 odpowiedziami"
-                }
-            ], 
-            "timeToComplete": 10, 
-            "title": "Poll 1"
-        }, 
-        {
-            "author": "Mariusz ", 
-            "id": 6, 
+            "author": "Nowakowski", 
+            "id": 4, 
             "points": 12, 
             "questions": [
                 {
                     "answers": [
-                        "Tak", 
-                        "Nie"
+                        "Answer 1", 
+                        "Answer 2", 
+                        "Answer 3"
                     ], 
-                    "id": 14, 
-                    "question_text": "Czy palisz pieprosy?"
+                    "id": 7, 
+                    "question_text": "Single Choice Question #1", 
+                    "type": "singlechoice"
                 }, 
                 {
-                    "answers": [
-                        "MBW", 
-                        "Audi", 
-                        "Mercedes", 
-                        "Inny"
-                    ], 
-                    "id": 15, 
-                    "question_text": "Jaki chcesz miec samochod?"
+                    "id": 3, 
+                    "question_text": "How do you rate our service?", 
+                    "type": "stars"
                 }
             ], 
-            "timeToComplete": 5, 
-            "title": "Poll 2"
+            "timeToComplete": 25, 
+            "title": ""
         }
     ]
 }
@@ -71,23 +42,17 @@ Wysyłam ankiety, na które użytkownik odpowiedział. W tym przypadku odpowiedz
 {
   "questionnaires" : [
     {
-      "id" : 0,
-      "title" : "Transport Publiczny",
-      "timeToComplete" : "10",
-      "author" : "MPK",
-      "points" : "9",
+      "id" : 4,
       "questions" : [
         {
-          "id" : 0,
-          "type" : 0,
-          "body_text" : "Jesteś YOLO?",
+          "id" : 7,
+          "type" : 'singlechoice',
           "answer" : 1
         },
         {
-          "id" : 1,
-          "type" : 0,
-          "body_text" : "Joł?",
-          "answer" : 0
+          "id" : 3,
+          "type" : 'stars',
+          "answer" : 5
         }
       ]
     } 
