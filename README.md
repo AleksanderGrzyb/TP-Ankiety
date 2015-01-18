@@ -46,12 +46,12 @@ Wysyłam ankiety, na które użytkownik odpowiedział. W tym przypadku odpowiedz
       "questions" : [
         {
           "id" : 7,
-          "type" : 'singlechoice',
+          "type" : "singlechoice",
           "answer" : 1
         },
         {
           "id" : 3,
-          "type" : 'stars',
+          "type" : "stars",
           "answer" : 5
         }
       ]
