@@ -136,7 +136,7 @@ Using POST submit in a format that follows:
         }, 
         {
             "answers": [
-                [1, "Yes"]
+                [1, 1]
             ], 
             "id": 5
         }, 
